@@ -1,0 +1,501 @@
+cliente_id,nome,idade,renda_mensal,data_entrada,canal_entrada,regiao
+1,Ana Luiza Carvalho,58,3002.97,2022-06-27,indicação,Sul
+2,Manuela Pinto,32,3383.76,2022-10-16,orgânico,Norte
+3,Paulo Ferreira,23,9471.65,2022-11-29,orgânico,Sudeste
+4,João Lucas Carvalho,23,4451.61,2023-04-10,orgânico,Norte
+5,Bárbara Costa,30,11166.26,2022-06-27,social,Sul
+6,Dra. Stella Rezende,46,9455.09,2022-08-18,orgânico,Sul
+7,Noah Freitas,62,7205.29,2022-09-20,indicação,Sul
+8,Vinicius Jesus,31,14422.38,2023-01-24,indicação,Sudeste
+9,Bruna Mendes,23,6629.02,2022-06-23,indicação,Nordeste
+10,Felipe Ribeiro,56,5071.03,2022-05-25,orgânico,Centro-Oeste
+11,Brenda Ramos,52,3185.15,2023-02-13,social,Sudeste
+12,Emanuelly Lopes,53,5457.91,2022-02-21,indicação,Norte
+13,Eduardo Alves,30,11011.72,2023-06-20,orgânico,Sul
+14,Sr. Rodrigo das Neves,36,14800.49,2023-04-08,pago,Sudeste
+15,Yago Lopes,42,5252.64,2022-03-23,indicação,Sul
+16,Maria Julia da Cunha,41,6296.15,2022-01-10,indicação,Sudeste
+17,Samuel Gonçalves,56,10072.21,2023-02-03,pago,Sul
+18,Enzo Gabriel Rodrigues,47,6622.65,2023-02-17,pago,Nordeste
+19,Juan Dias,21,4592.15,2023-06-27,orgânico,Nordeste
+20,Ana Lívia da Costa,43,5114.5,2022-09-01,pago,Norte
+21,Marcos Vinicius da Conceição,63,5748.15,2022-01-21,social,Centro-Oeste
+22,Srta. Maysa Ribeiro,59,7694.5,2023-06-07,indicação,Sul
+23,Maria Alice Cavalcanti,33,11557.35,2022-07-13,indicação,Norte
+24,Gabriela Silva,45,13620.61,2022-04-03,social,Nordeste
+25,Dra. Carolina Campos,32,14963.9,2022-11-18,pago,Norte
+26,Diego Moreira,49,2727.28,2022-06-07,orgânico,Sudeste
+27,Emanuel Castro,27,9970.52,2022-10-09,social,Norte
+28,Isadora Fogaça,22,6694.36,2022-04-14,social,Norte
+29,Leonardo da Rosa,34,14609.56,2023-06-11,orgânico,Sudeste
+30,Vitor Gabriel Fernandes,61,13444.64,2023-06-24,indicação,Nordeste
+31,Ana Beatriz Silveira,25,5462.25,2023-02-07,pago,Centro-Oeste
+32,Dr. Luiz Henrique Teixeira,18,14376.52,2022-12-13,indicação,Norte
+33,Diego Porto,29,8353.7,2022-08-17,orgânico,Nordeste
+34,Sr. Matheus Nogueira,58,8353.45,2022-08-17,pago,Sul
+35,Stephany Cunha,41,11793.9,2023-05-15,orgânico,Norte
+36,Rebeca Cardoso,38,8096.18,2023-03-25,orgânico,Nordeste
+37,Sra. Pietra da Mata,37,4732.61,2023-05-23,pago,Norte
+38,Ana Julia Barbosa,23,2656.32,2022-05-04,social,Sudeste
+39,Samuel Viana,52,11838.76,2022-08-21,pago,Centro-Oeste
+40,Antônio Nascimento,53,3729.21,2022-05-30,social,Sul
+41,Stella Alves,52,11696.08,2023-03-07,pago,Nordeste
+42,Mariane Barros,43,14934.52,2022-09-05,indicação,Centro-Oeste
+43,Dr. Ryan da Paz,51,7595.06,2022-01-27,pago,Sul
+44,Dr. André Jesus,22,6064.16,2022-01-08,pago,Norte
+45,Nicolas Azevedo,32,1597.08,2023-04-30,orgânico,Sul
+46,Lorena da Mota,22,13723.17,2022-02-27,indicação,Sudeste
+47,Luigi Martins,50,4713.06,2022-09-18,social,Sul
+48,Lucca Novaes,52,3286.21,2022-06-08,social,Sul
+49,Ana Beatriz Lopes,48,12401.21,2023-06-11,pago,Sudeste
+50,Evelyn Barbosa,24,10396.27,2022-02-02,indicação,Centro-Oeste
+51,Gabriel Pinto,44,7804.83,2023-02-12,orgânico,Sudeste
+52,Juan da Costa,21,6935.39,2022-09-13,indicação,Sudeste
+53,Dr. Eduardo Rocha,33,4086.47,2022-10-11,social,Sul
+54,Pedro Nogueira,45,3977.09,2022-11-29,social,Sul
+55,Ana Sophia da Cruz,22,7482.27,2022-05-09,orgânico,Sudeste
+56,Francisco Lima,59,14990.31,2023-03-21,orgânico,Sudeste
+57,Helena Nogueira,33,3745.2,2022-06-02,social,Centro-Oeste
+58,Luna Freitas,31,13172.78,2022-03-21,orgânico,Sul
+59,Clara Almeida,42,1529.1,2023-06-15,social,Nordeste
+60,Helena Rocha,47,5350.86,2023-01-25,social,Sul
+61,Nathan Castro,30,5505.56,2022-07-12,orgânico,Norte
+62,Raul Martins,65,8819.64,2022-08-03,indicação,Sudeste
+63,Camila da Costa,21,9386.4,2023-01-09,pago,Sudeste
+64,João Gabriel da Rosa,50,2581.5,2023-01-20,pago,Sudeste
+65,João Gabriel da Costa,56,2417.47,2023-04-24,pago,Centro-Oeste
+66,Maria Alice Mendes,25,14211.55,2022-04-04,pago,Norte
+67,João Vitor Barbosa,56,2036.51,2023-05-06,orgânico,Centro-Oeste
+68,Kamilly Martins,60,9379.58,2023-01-01,indicação,Nordeste
+69,Gabriel Barros,31,10541.3,2023-01-14,indicação,Sul
+70,Juan Alves,34,6843.11,2022-04-05,indicação,Centro-Oeste
+71,Marcelo Correia,38,14041.75,2022-09-30,orgânico,Sudeste
+72,Thomas Ramos,47,9885.65,2022-10-25,orgânico,Sudeste
+73,Gabriel Novaes,52,4377.58,2023-05-22,indicação,Sul
+74,Daniel Souza,40,13391.67,2023-01-02,pago,Nordeste
+75,Luiz Felipe Cardoso,36,3629.58,2023-01-09,indicação,Norte
+76,Isabel Aragão,59,8640.7,2022-03-01,indicação,Sudeste
+77,Nathan Moura,26,5070.29,2022-06-13,orgânico,Norte
+78,Mariana Aragão,27,5176.7,2022-11-15,pago,Nordeste
+79,Pietro Cunha,31,10781.21,2022-03-25,indicação,Norte
+80,Lara Rocha,49,4890.14,2022-04-15,orgânico,Sudeste
+81,Lucas Gabriel da Mota,58,7218.27,2022-09-11,indicação,Sudeste
+82,Valentina Moraes,18,6003.01,2022-06-15,pago,Nordeste
+83,Sr. Leandro da Rocha,28,11506.62,2022-03-24,social,Norte
+84,Brenda da Mota,18,3010.3,2023-03-24,pago,Norte
+85,Leandro Rocha,20,12767.03,2022-09-09,pago,Centro-Oeste
+86,Maitê Dias,26,2064.69,2023-05-23,indicação,Sudeste
+87,Dr. Davi Luiz Caldeira,40,4336.03,2023-03-31,pago,Sudeste
+88,Gustavo Henrique da Cruz,40,12031.57,2022-06-19,social,Norte
+89,Eloah Moura,65,3586.47,2022-08-06,pago,Sul
+90,Maria Araújo,29,13399.12,2023-06-27,orgânico,Sul
+91,Dra. Gabriela Monteiro,65,13980.58,2023-05-11,social,Sul
+92,Ana Vitória Rocha,35,3649.17,2023-05-29,orgânico,Centro-Oeste
+93,Luiz Miguel Teixeira,20,13091.01,2023-05-19,pago,Sul
+94,Breno Aragão,47,6220.39,2022-11-14,pago,Sul
+95,Kaique Campos,19,10410.45,2023-04-16,social,Nordeste
+96,Francisco Campos,35,13168.76,2022-09-16,indicação,Nordeste
+97,Dr. Alexandre Azevedo,59,8376.98,2023-04-16,indicação,Sudeste
+98,Ana Carolina Dias,25,13340.02,2022-01-05,indicação,Sul
+99,Vicente Ferreira,55,14494.21,2022-04-05,indicação,Sudeste
+100,Sra. Maria Cecília Vieira,24,9553.71,2022-02-24,indicação,Nordeste
+101,Helena Farias,45,9683.82,2022-07-21,orgânico,Centro-Oeste
+102,Bruno da Rocha,54,4066.06,2022-07-13,orgânico,Centro-Oeste
+103,Sra. Helena Araújo,18,8518.92,2022-08-20,pago,Nordeste
+104,Paulo Correia,45,2444.65,2023-02-09,indicação,Norte
+105,Ana Carolina Gomes,38,10455.73,2022-01-15,orgânico,Nordeste
+106,Marcelo Fogaça,50,5675.34,2022-08-17,social,Nordeste
+107,Sr. Diego Porto,43,10912.31,2022-04-24,pago,Sul
+108,Ana Beatriz Porto,44,10476.55,2023-05-25,social,Sul
+109,Leonardo Moreira,57,9182.92,2022-06-05,social,Norte
+110,Ana Duarte,18,5602.31,2023-04-19,pago,Centro-Oeste
+111,Brenda Pires,55,9689.93,2022-10-06,indicação,Centro-Oeste
+112,Sabrina da Cruz,46,7469.16,2022-07-21,pago,Norte
+113,Mariana Correia,48,12215.43,2023-05-03,pago,Sudeste
+114,Bárbara Correia,36,8458.6,2023-01-04,indicação,Sudeste
+115,João Lucas Dias,33,10582.74,2023-02-27,pago,Sul
+116,Alexandre Pires,27,1829.74,2023-02-13,pago,Centro-Oeste
+117,Igor Mendes,57,12971.46,2022-01-24,orgânico,Centro-Oeste
+118,Ana Carolina Ferreira,44,13462.85,2023-04-03,pago,Centro-Oeste
+119,Daniel Costela,49,6895.31,2022-05-16,pago,Sudeste
+120,Helena Moraes,24,12008.68,2022-05-24,pago,Sul
+121,Cauê Cardoso,62,8492.43,2023-04-24,orgânico,Norte
+122,Manuela Barros,33,13885.85,2022-06-19,orgânico,Centro-Oeste
+123,Ryan Melo,26,12319.12,2023-03-31,indicação,Centro-Oeste
+124,Rodrigo Moreira,57,12502.59,2022-06-21,social,Norte
+125,Heloísa Freitas,46,13612.31,2022-12-29,social,Centro-Oeste
+126,Gabriel Fernandes,34,11648.99,2022-12-22,indicação,Norte
+127,Pedro Henrique Lima,49,9961.1,2022-07-18,indicação,Centro-Oeste
+128,Lucas Gonçalves,22,11132.86,2023-05-18,pago,Nordeste
+129,Sr. Kaique Cardoso,39,5816.08,2022-06-03,orgânico,Sul
+130,Sophie Alves,27,4622.03,2023-04-29,pago,Sul
+131,Stephany Campos,22,7100.72,2022-10-07,indicação,Norte
+132,Thomas Cardoso,47,7112.95,2022-11-01,pago,Centro-Oeste
+133,Natália Nogueira,42,13715.32,2022-06-09,orgânico,Norte
+134,Vitória Rezende,42,7939.23,2022-04-21,indicação,Nordeste
+135,Guilherme Aragão,42,13021.55,2022-10-30,social,Norte
+136,Srta. Pietra Oliveira,65,11417.56,2023-06-27,pago,Centro-Oeste
+137,Dr. Vitor Hugo Lopes,32,5184.63,2022-08-17,social,Sudeste
+138,Sr. Vinicius Caldeira,42,6037.75,2023-01-06,social,Sul
+139,Felipe da Cunha,47,13913.81,2022-04-27,orgânico,Centro-Oeste
+140,Heitor Novaes,55,9119.29,2023-04-17,orgânico,Sudeste
+141,Rebeca Castro,59,7286.27,2023-03-16,social,Sul
+142,Rafael Gomes,21,5012.11,2022-09-21,indicação,Sul
+143,Ana Sophia Ribeiro,47,5912.42,2023-03-14,social,Nordeste
+144,Pedro Lucas Monteiro,44,4905.67,2022-12-22,orgânico,Centro-Oeste
+145,Sr. Bernardo Pires,19,11611.83,2022-07-29,orgânico,Nordeste
+146,Ana Beatriz Silveira,32,10276.95,2023-03-29,orgânico,Sudeste
+147,Camila Jesus,33,4191.37,2022-06-01,orgânico,Norte
+148,Isadora Moraes,27,4720.36,2022-10-22,social,Sudeste
+149,Antônio Peixoto,54,14294.72,2022-09-15,social,Nordeste
+150,Diego Moraes,41,3765.15,2022-05-20,orgânico,Sul
+151,Bárbara Ramos,37,2959.33,2022-06-10,orgânico,Nordeste
+152,Olivia da Conceição,54,10644.19,2023-05-04,social,Centro-Oeste
+153,Bryan Fogaça,63,4177.45,2022-03-31,pago,Sudeste
+154,Sra. Ana Nunes,62,11928.49,2022-11-15,orgânico,Norte
+155,Raquel Nogueira,20,6187.25,2022-07-26,social,Nordeste
+156,Ana Júlia Costa,22,8330.47,2023-02-25,indicação,Sudeste
+157,Pedro Costela,44,12601.47,2023-04-13,orgânico,Centro-Oeste
+158,João da Mata,41,10080.4,2023-06-24,social,Sul
+159,Bárbara Carvalho,45,3877.85,2022-12-20,indicação,Norte
+160,Nina da Costa,52,11957.66,2022-10-31,social,Centro-Oeste
+161,Luiz Henrique Peixoto,64,9498.41,2022-05-23,indicação,Sul
+162,Felipe Fernandes,23,5265.53,2023-05-24,social,Sul
+163,Sr. Antônio Freitas,47,9192.97,2023-02-26,social,Nordeste
+164,Sr. Pedro Henrique Lima,19,8173.14,2023-06-14,indicação,Sul
+165,Luiz Gustavo Cardoso,49,4363.62,2022-04-19,indicação,Nordeste
+166,Emanuelly da Cunha,35,13384.32,2022-05-21,indicação,Norte
+167,Diego Viana,18,8474.47,2023-06-07,pago,Sudeste
+168,Igor Sales,33,11221.01,2023-03-03,social,Norte
+169,Benjamin Pereira,33,10823.23,2022-03-07,social,Centro-Oeste
+170,João Lucas Nogueira,19,2756.22,2022-09-29,pago,Centro-Oeste
+171,Sr. Ian Ferreira,62,4784.62,2022-01-04,indicação,Centro-Oeste
+172,João Lucas Souza,53,8667.45,2023-04-18,social,Norte
+173,João Miguel Jesus,39,6249.44,2022-03-12,social,Nordeste
+174,Melissa Souza,37,4893.95,2023-03-13,orgânico,Sul
+175,Joana Fogaça,38,3113.99,2023-01-10,pago,Sul
+176,Heitor Barros,31,11471.16,2022-05-19,indicação,Norte
+177,Daniela da Rocha,51,9556.67,2022-04-14,orgânico,Sul
+178,Davi Lucca Gomes,36,4571.02,2022-01-10,pago,Nordeste
+179,Fernando da Mata,18,11058.25,2022-12-08,pago,Nordeste
+180,Enrico da Rocha,20,14652.98,2022-07-24,indicação,Sul
+181,Rafael Costela,58,13224.23,2023-03-13,social,Sudeste
+182,Eduardo Ferreira,18,9249.87,2022-05-19,social,Centro-Oeste
+183,Brenda Novaes,46,6099.53,2023-04-25,orgânico,Nordeste
+184,Otávio Mendes,48,3040.18,2022-01-18,orgânico,Centro-Oeste
+185,Maria Fernanda Caldeira,49,2500.11,2022-12-27,orgânico,Sul
+186,Igor Silveira,27,12450.42,2022-02-23,indicação,Sudeste
+187,Theo Gomes,33,3099.1,2022-03-14,social,Norte
+188,Brenda Mendes,56,12175.0,2022-01-04,pago,Norte
+189,Mariane Jesus,42,7581.95,2022-10-05,social,Nordeste
+190,Lorena Castro,55,14865.42,2022-06-15,indicação,Norte
+191,Luiz Felipe da Paz,57,2313.11,2022-11-25,orgânico,Sul
+192,Davi Lucca da Mata,58,4348.84,2022-06-28,orgânico,Sul
+193,Ana Lívia Moreira,33,3846.48,2022-10-13,orgânico,Sul
+194,Sarah Aragão,18,7014.99,2022-05-09,social,Nordeste
+195,Sra. Marina Souza,20,4624.93,2023-05-11,indicação,Centro-Oeste
+196,Marina Novaes,22,10779.7,2022-09-17,indicação,Norte
+197,João Pedro Fogaça,60,12352.73,2023-04-27,pago,Centro-Oeste
+198,Enzo Correia,25,8851.59,2022-05-27,pago,Nordeste
+199,Dra. Clara Farias,27,2464.03,2023-05-02,pago,Nordeste
+200,Yuri Fernandes,56,11610.93,2022-06-16,indicação,Centro-Oeste
+201,Sr. Marcos Vinicius Mendes,25,7827.42,2023-01-14,indicação,Centro-Oeste
+202,Ian Duarte,35,8256.37,2022-12-26,social,Centro-Oeste
+203,Ana Lívia Peixoto,23,9573.49,2022-12-13,social,Nordeste
+204,Enzo da Rocha,56,4879.97,2022-11-04,orgânico,Sul
+205,Sra. Isabel Costela,61,12785.44,2022-08-17,orgânico,Nordeste
+206,Raquel Nogueira,54,2043.13,2022-04-26,pago,Centro-Oeste
+207,Bryan da Mota,51,10295.38,2022-10-11,indicação,Sul
+208,Rodrigo Pereira,55,7384.45,2022-03-23,social,Sudeste
+209,João Gabriel da Conceição,48,6197.47,2022-06-07,indicação,Nordeste
+210,Sra. Rafaela Fernandes,60,2912.1,2022-02-23,pago,Nordeste
+211,Diego Lopes,44,10864.59,2023-03-31,indicação,Centro-Oeste
+212,Srta. Stella Moura,53,1995.41,2022-01-15,orgânico,Nordeste
+213,Olivia Viana,34,5864.2,2022-05-10,social,Norte
+214,Rodrigo Martins,18,10378.42,2022-04-11,social,Centro-Oeste
+215,Vitor Nogueira,21,4032.36,2022-09-28,indicação,Norte
+216,Leandro Cardoso,49,9943.02,2022-03-20,orgânico,Sul
+217,Thomas Caldeira,35,8914.47,2023-02-03,indicação,Centro-Oeste
+218,Ana Julia Jesus,62,8043.61,2022-06-29,orgânico,Norte
+219,Gustavo Barros,33,11082.07,2023-01-15,indicação,Norte
+220,Rafaela Peixoto,18,8955.39,2022-08-01,orgânico,Sul
+221,Beatriz Moura,25,7729.55,2022-09-18,orgânico,Sul
+222,Bryan Rezende,49,14090.82,2022-11-14,indicação,Norte
+223,Davi Gonçalves,63,5191.24,2022-11-04,social,Centro-Oeste
+224,Leonardo Moraes,33,7666.62,2023-06-29,pago,Centro-Oeste
+225,Daniela da Rosa,30,13945.22,2023-02-26,pago,Sudeste
+226,Dr. João Vitor Cardoso,35,11931.11,2023-03-10,social,Nordeste
+227,Srta. Ana Beatriz das Neves,50,5106.83,2022-12-30,orgânico,Nordeste
+228,Emanuel Carvalho,64,5530.5,2022-07-30,social,Sul
+229,Ana Sophia Campos,46,8770.84,2023-06-21,indicação,Nordeste
+230,Isaac Alves,53,11798.78,2022-02-01,social,Centro-Oeste
+231,Anthony Monteiro,38,13239.62,2022-02-23,pago,Norte
+232,Lucas Pinto,42,4653.09,2022-02-09,social,Sudeste
+233,Yuri da Rocha,38,11553.52,2022-05-07,social,Centro-Oeste
+234,Carolina Ramos,60,12197.31,2022-08-14,pago,Centro-Oeste
+235,Letícia Duarte,20,3204.32,2022-05-04,indicação,Sudeste
+236,Diego Correia,46,2846.11,2023-04-18,social,Sudeste
+237,Srta. Carolina Lopes,64,3446.1,2023-05-27,pago,Sudeste
+238,Ana Julia Cunha,48,12050.59,2023-06-05,indicação,Nordeste
+239,Sophia Freitas,57,10851.51,2023-06-10,orgânico,Nordeste
+240,Nicole Duarte,61,13101.12,2022-06-04,social,Nordeste
+241,Maitê Lopes,58,11202.69,2022-01-09,social,Norte
+242,Alice Moreira,20,9835.7,2022-06-14,pago,Nordeste
+243,Sr. Calebe Correia,32,11581.35,2023-02-11,social,Sudeste
+244,Dr. Diego Costela,58,11002.53,2022-03-25,orgânico,Centro-Oeste
+245,Maria Luiza da Costa,28,10869.02,2023-03-24,orgânico,Sudeste
+246,Nathan Freitas,38,12247.94,2022-08-11,indicação,Nordeste
+247,Lucas da Mota,41,7314.27,2022-04-25,pago,Norte
+248,Ana Vitória Peixoto,44,9140.03,2022-12-17,pago,Sul
+249,Ana Beatriz da Conceição,29,2566.07,2023-06-07,social,Norte
+250,Joana Santos,61,4751.2,2023-03-10,pago,Sul
+251,Ana Júlia Alves,47,10111.71,2023-01-18,social,Nordeste
+252,Larissa Sales,60,1626.87,2022-04-30,social,Nordeste
+253,Rebeca Peixoto,61,8879.07,2023-01-23,orgânico,Centro-Oeste
+254,Olivia Cardoso,40,14833.3,2023-05-23,indicação,Centro-Oeste
+255,Heitor Moreira,62,4876.33,2022-02-28,indicação,Sul
+256,Maria Duarte,42,13020.03,2023-01-26,orgânico,Sul
+257,Laura Dias,42,9220.96,2023-01-11,indicação,Nordeste
+258,Erick Carvalho,19,14702.25,2022-11-16,social,Nordeste
+259,Augusto Castro,18,9140.04,2023-03-25,orgânico,Norte
+260,João Vitor Silveira,65,8205.82,2023-02-14,indicação,Sul
+261,Lavínia Novaes,56,12326.08,2023-04-29,pago,Sul
+262,Lucas da Rosa,57,4883.46,2022-07-15,pago,Sudeste
+263,Kaique Aragão,58,10225.6,2022-11-04,indicação,Centro-Oeste
+264,Vinicius Aragão,20,9324.25,2022-05-04,pago,Sudeste
+265,Dr. Bernardo da Paz,36,5910.71,2023-05-12,social,Sul
+266,Vitor Hugo Monteiro,30,3284.16,2022-08-06,indicação,Norte
+267,Laura Santos,50,13832.07,2023-01-17,pago,Nordeste
+268,Raul Alves,48,14559.69,2023-02-22,indicação,Nordeste
+269,Sr. Francisco Farias,25,7822.47,2022-08-25,orgânico,Sul
+270,Maitê Cavalcanti,32,13111.9,2022-07-05,social,Norte
+271,Felipe Silva,41,2719.09,2023-01-31,social,Sudeste
+272,Sofia Carvalho,34,8743.73,2023-02-12,social,Nordeste
+273,Enrico Alves,61,11611.66,2022-01-24,indicação,Norte
+274,Ana Castro,42,12602.63,2022-03-28,indicação,Sudeste
+275,Srta. Cecília Caldeira,61,4656.6,2022-10-03,orgânico,Norte
+276,Raquel Santos,53,5928.08,2022-11-20,pago,Sudeste
+277,Thomas Moura,58,12622.05,2023-04-09,indicação,Centro-Oeste
+278,Antônio Santos,25,3386.99,2022-07-01,orgânico,Nordeste
+279,Lara Freitas,49,3067.63,2023-04-14,pago,Norte
+280,Sr. Cauê Gomes,26,6746.72,2022-09-06,indicação,Norte
+281,Maysa Cardoso,44,9429.09,2022-09-22,pago,Centro-Oeste
+282,Erick Lima,59,2836.79,2023-04-15,social,Norte
+283,Bárbara Campos,44,14177.22,2022-10-02,indicação,Sudeste
+284,Ana Carolina Silveira,62,6502.15,2022-02-07,social,Centro-Oeste
+285,Anthony Novaes,33,13048.58,2022-04-09,orgânico,Nordeste
+286,Maria Vitória Peixoto,52,13672.9,2022-07-22,indicação,Sudeste
+287,Isadora Aragão,43,5224.4,2023-03-21,orgânico,Centro-Oeste
+288,Heloísa Sales,23,10447.38,2022-12-13,orgânico,Sudeste
+289,Sr. Gustavo das Neves,39,4788.18,2022-04-15,pago,Norte
+290,Sarah Teixeira,31,2426.24,2022-07-11,pago,Norte
+291,Miguel Azevedo,31,12476.22,2022-01-20,pago,Nordeste
+292,Maria Eduarda Dias,27,12146.69,2022-12-07,orgânico,Nordeste
+293,Yasmin Pires,27,14831.62,2022-01-04,indicação,Sul
+294,Nathan Jesus,25,10424.28,2022-02-04,orgânico,Sul
+295,Renan Silva,18,6336.27,2023-06-25,pago,Norte
+296,Rodrigo Nunes,38,1713.04,2022-12-10,indicação,Sudeste
+297,Enzo Barros,26,11513.19,2023-05-10,orgânico,Sudeste
+298,Amanda Rocha,48,7551.72,2022-10-30,indicação,Norte
+299,Emanuelly Nascimento,55,2972.23,2023-06-19,pago,Norte
+300,Pedro Henrique Ribeiro,20,11317.78,2023-04-23,indicação,Centro-Oeste
+301,Esther Costa,59,14514.35,2022-05-23,orgânico,Centro-Oeste
+302,Yuri Moura,43,7254.69,2022-06-09,orgânico,Centro-Oeste
+303,Dr. João Pedro Nunes,63,13780.96,2022-06-02,orgânico,Sudeste
+304,Gabriel Cavalcanti,38,9712.02,2022-12-17,orgânico,Sul
+305,Dr. Bryan Martins,35,9928.29,2022-12-07,indicação,Centro-Oeste
+306,Pedro Lucas Gomes,56,8662.52,2022-05-03,social,Norte
+307,Kamilly da Costa,56,7307.69,2022-03-25,orgânico,Norte
+308,Srta. Isabelly da Paz,64,13184.15,2022-07-02,social,Centro-Oeste
+309,Maria Rodrigues,32,7086.48,2022-04-04,social,Centro-Oeste
+310,Natália Freitas,44,11349.77,2022-06-25,indicação,Centro-Oeste
+311,Isabella Pires,38,10478.96,2023-06-24,indicação,Sul
+312,Luana Farias,61,13960.3,2023-06-08,orgânico,Sudeste
+313,Maria Luiza Barros,23,2758.61,2022-01-09,orgânico,Nordeste
+314,Davi Lucas Costa,26,9011.0,2022-07-19,indicação,Sudeste
+315,Fernando da Luz,44,6273.57,2022-08-26,social,Sudeste
+316,Caroline Dias,36,9605.54,2023-01-28,indicação,Sudeste
+317,Clarice Viana,54,8350.07,2023-04-29,pago,Centro-Oeste
+318,Dr. Ryan Dias,32,12938.21,2023-06-26,indicação,Norte
+319,Sr. João Vitor da Cruz,41,3050.95,2022-07-02,indicação,Norte
+320,Maitê Pires,32,12397.49,2022-11-21,orgânico,Norte
+321,Marcos Vinicius Moura,60,12697.72,2023-01-21,indicação,Sudeste
+322,Marcos Vinicius Costela,29,5189.15,2023-02-16,indicação,Nordeste
+323,Miguel Freitas,40,1582.43,2022-10-17,pago,Norte
+324,Gabriel Moraes,60,6910.59,2023-06-28,pago,Sudeste
+325,Srta. Raquel Alves,23,11572.51,2023-01-09,pago,Centro-Oeste
+326,Davi Lucca Lopes,44,7624.22,2022-03-13,pago,Nordeste
+327,Davi Luiz Farias,37,11241.55,2023-03-01,orgânico,Sudeste
+328,Lucas Rezende,27,3625.03,2022-07-27,orgânico,Sudeste
+329,Yasmin Peixoto,35,7482.03,2022-08-21,social,Centro-Oeste
+330,Isabel Pereira,56,7467.6,2023-06-01,indicação,Sul
+331,Gustavo Henrique Pires,50,3036.54,2023-04-10,social,Sudeste
+332,Lorenzo Rodrigues,36,10655.94,2023-06-11,social,Norte
+333,Davi Cunha,60,5663.66,2023-02-27,pago,Centro-Oeste
+334,Sophia Silveira,56,2239.56,2022-11-04,pago,Nordeste
+335,Julia Melo,31,11859.22,2023-02-17,indicação,Nordeste
+336,Catarina Moraes,38,3119.79,2023-03-29,social,Centro-Oeste
+337,Vitor Hugo da Paz,29,3244.01,2023-01-24,pago,Norte
+338,Vitor Gabriel da Cunha,53,12750.28,2022-03-13,indicação,Sudeste
+339,Nicole Pereira,43,13133.82,2022-07-06,orgânico,Centro-Oeste
+340,Bernardo Ramos,19,7706.68,2023-04-23,orgânico,Nordeste
+341,Felipe Moura,54,7295.34,2023-02-06,social,Centro-Oeste
+342,Paulo da Cruz,36,3054.84,2022-05-26,orgânico,Nordeste
+343,Daniela Lima,28,12317.85,2023-05-09,social,Nordeste
+344,Dr. Levi Costela,23,7395.61,2022-08-14,orgânico,Sul
+345,Catarina Jesus,45,9449.76,2022-01-01,orgânico,Centro-Oeste
+346,Henrique Freitas,37,11568.37,2023-03-04,pago,Nordeste
+347,Arthur Peixoto,28,2531.12,2022-08-19,orgânico,Norte
+348,Joaquim Gonçalves,50,4117.7,2023-02-11,indicação,Nordeste
+349,Breno Pereira,64,14436.02,2022-08-19,pago,Sul
+350,Lívia Vieira,24,3477.0,2023-06-09,pago,Sul
+351,Noah Gomes,56,3563.74,2022-12-31,orgânico,Sul
+352,Cauê Pinto,58,8170.58,2023-03-28,social,Norte
+353,Diego Fernandes,59,10076.53,2022-03-09,indicação,Nordeste
+354,Rafaela Gomes,27,7436.8,2022-12-18,social,Centro-Oeste
+355,Dra. Helena da Conceição,58,5588.08,2022-01-08,indicação,Norte
+356,Rebeca Souza,21,6251.22,2022-09-27,orgânico,Nordeste
+357,Sra. Mariana Nascimento,47,7600.84,2022-03-18,orgânico,Nordeste
+358,Gabriel Azevedo,36,2535.87,2022-09-18,orgânico,Norte
+359,Sra. Maria Alice Ferreira,56,8345.42,2023-04-09,social,Norte
+360,Joana Sales,53,14382.12,2022-02-24,orgânico,Centro-Oeste
+361,Marcela Barbosa,54,10299.81,2022-04-03,indicação,Norte
+362,Heloísa da Costa,48,8268.46,2022-09-15,orgânico,Centro-Oeste
+363,Vitor Gabriel Nascimento,24,12448.05,2023-06-23,indicação,Sudeste
+364,Alexandre Azevedo,50,10222.72,2022-11-06,orgânico,Sul
+365,Cauê Rezende,63,7409.74,2022-12-21,social,Norte
+366,João Guilherme Souza,51,9732.37,2022-11-08,indicação,Nordeste
+367,Pietra Alves,36,6730.12,2022-02-24,indicação,Norte
+368,Dra. Lara Vieira,21,12154.56,2022-06-27,indicação,Sudeste
+369,Kevin Barbosa,39,2775.83,2022-02-15,social,Nordeste
+370,Manuela Nogueira,34,11270.4,2023-05-12,pago,Nordeste
+371,Maysa Azevedo,23,9366.98,2023-02-20,pago,Nordeste
+372,Marcos Vinicius Viana,37,14563.9,2023-03-07,social,Sul
+373,Heitor Moreira,56,11069.26,2022-03-09,orgânico,Nordeste
+374,Samuel Costela,53,6585.17,2022-06-20,indicação,Sul
+375,Lucas Gabriel da Cunha,60,10988.22,2022-03-14,orgânico,Centro-Oeste
+376,Ana Júlia das Neves,50,6384.68,2022-08-02,indicação,Nordeste
+377,Guilherme Farias,29,14340.79,2022-06-05,indicação,Centro-Oeste
+378,Pedro Henrique Caldeira,30,4558.33,2023-01-15,pago,Sul
+379,Pedro Miguel Correia,22,5493.19,2022-12-06,orgânico,Norte
+380,Catarina Martins,52,12774.12,2023-03-20,orgânico,Nordeste
+381,Dr. Enzo da Cunha,57,3269.16,2022-08-06,social,Sul
+382,Yuri Barros,28,3941.42,2022-06-06,pago,Centro-Oeste
+383,Bruna da Mata,20,7046.59,2023-06-22,pago,Centro-Oeste
+384,Diogo Moraes,57,5346.53,2023-05-26,social,Sul
+385,Isaac Moreira,52,4728.77,2023-01-28,social,Sul
+386,Erick Freitas,41,10657.14,2022-04-14,social,Centro-Oeste
+387,Stella Souza,36,12004.67,2022-01-02,social,Sul
+388,Lara Santos,30,12317.0,2022-11-04,pago,Nordeste
+389,Stella Rocha,21,10155.92,2022-12-20,indicação,Norte
+390,Paulo Cavalcanti,24,11103.91,2023-01-05,orgânico,Nordeste
+391,Ana Carolina Sales,23,11802.08,2022-08-05,indicação,Centro-Oeste
+392,Benjamin Pires,50,3489.21,2022-03-02,social,Sudeste
+393,Maria Cecília Correia,32,12525.49,2023-01-15,indicação,Sudeste
+394,Beatriz Cavalcanti,44,2218.97,2023-03-14,indicação,Sul
+395,Rebeca Caldeira,42,14926.09,2022-01-27,indicação,Sul
+396,Sra. Luna Carvalho,19,5802.25,2023-04-22,orgânico,Nordeste
+397,Mirella da Mata,27,3357.59,2022-10-12,indicação,Centro-Oeste
+398,Lorenzo Lima,62,12719.99,2022-03-04,social,Centro-Oeste
+399,Fernanda Carvalho,57,1570.89,2022-08-23,orgânico,Sudeste
+400,Samuel Fernandes,34,4411.34,2022-09-14,pago,Norte
+401,Lívia Azevedo,64,9719.88,2022-10-18,social,Sudeste
+402,Thomas Souza,36,4708.14,2023-02-20,orgânico,Sudeste
+403,Raul das Neves,33,7167.64,2022-03-31,social,Sudeste
+404,Yuri Nascimento,25,12795.28,2023-05-25,social,Norte
+405,Srta. Beatriz da Cunha,52,1721.88,2022-08-17,pago,Sul
+406,Mariana Costela,36,7294.73,2022-02-02,indicação,Sul
+407,Bernardo Silveira,54,7123.66,2022-09-04,orgânico,Norte
+408,Ryan Ramos,41,2413.67,2022-10-31,orgânico,Centro-Oeste
+409,Yasmin Nogueira,48,2087.71,2023-05-07,social,Nordeste
+410,Melissa Barbosa,34,11588.77,2022-04-07,indicação,Sudeste
+411,Luiz Gustavo Vieira,40,4755.2,2022-01-22,orgânico,Norte
+412,Alana Vieira,65,11715.17,2022-05-15,pago,Sudeste
+413,Kevin Rocha,40,8871.19,2022-02-17,pago,Centro-Oeste
+414,Stephany Lima,62,7960.17,2022-01-04,pago,Sul
+415,Fernando Farias,22,11166.61,2022-02-09,social,Sudeste
+416,Ana Teixeira,36,4221.48,2022-06-18,pago,Sudeste
+417,Ana Júlia Duarte,38,14100.51,2022-12-14,social,Norte
+418,João Felipe Almeida,48,4919.74,2022-06-09,pago,Nordeste
+419,Milena Duarte,40,13138.87,2022-09-22,orgânico,Nordeste
+420,Pedro Miguel Moraes,35,3180.41,2023-04-10,indicação,Centro-Oeste
+421,Dra. Larissa Freitas,43,11534.65,2023-01-22,social,Nordeste
+422,Dr. Isaac Porto,29,8198.74,2023-06-16,social,Nordeste
+423,Sr. Benício Azevedo,51,5100.73,2022-08-05,orgânico,Centro-Oeste
+424,Bianca Cunha,23,7313.2,2022-12-14,pago,Norte
+425,Dra. Maria Eduarda da Costa,36,5836.35,2022-03-18,orgânico,Nordeste
+426,Raul Gomes,60,5491.14,2022-06-27,social,Norte
+427,João Guilherme Teixeira,63,7252.57,2023-05-02,social,Nordeste
+428,Luiz Otávio Ferreira,46,2071.79,2022-10-06,indicação,Norte
+429,Alícia Barbosa,45,5206.5,2023-06-02,orgânico,Sudeste
+430,Maria Vitória Aragão,60,10106.42,2022-12-14,indicação,Norte
+431,Isaac da Rocha,65,10672.04,2022-12-02,orgânico,Sul
+432,Pietro Cunha,56,10654.2,2022-05-01,social,Sudeste
+433,Dr. Paulo Araújo,26,2407.65,2022-11-23,indicação,Nordeste
+434,João Felipe Souza,42,14317.81,2023-03-20,orgânico,Norte
+435,Srta. Laís da Conceição,27,10667.34,2022-03-30,indicação,Nordeste
+436,Mirella Nogueira,46,11801.64,2023-03-30,pago,Norte
+437,Vitor Gabriel Souza,41,6873.46,2022-03-17,indicação,Sul
+438,Lucas Gabriel Viana,25,1849.83,2022-07-16,pago,Centro-Oeste
+439,Maria Fernanda da Paz,51,6724.33,2022-04-20,orgânico,Nordeste
+440,Eloah das Neves,34,11004.51,2023-05-05,pago,Norte
+441,Milena Pires,36,10868.74,2023-01-27,social,Sul
+442,Lucca Costela,25,3332.33,2022-10-12,orgânico,Centro-Oeste
+443,Caroline Fogaça,29,13632.17,2022-04-10,social,Sudeste
+444,Laura Castro,61,14562.08,2023-01-17,indicação,Nordeste
+445,Enzo Ferreira,63,2376.68,2022-10-13,indicação,Nordeste
+446,Bernardo Porto,28,11109.42,2023-04-01,pago,Nordeste
+447,Alana Pinto,50,4527.26,2022-12-17,pago,Sul
+448,Ana Teixeira,33,12170.04,2022-01-21,orgânico,Nordeste
+449,Lara Mendes,53,9225.74,2022-03-25,social,Norte
+450,Sr. João Vitor Correia,26,9761.3,2023-03-04,orgânico,Sudeste
+451,Srta. Joana da Luz,37,6875.16,2023-06-26,social,Norte
+452,Ana Carolina Nogueira,44,11883.72,2022-06-25,orgânico,Sul
+453,Vitor Hugo Campos,38,10171.57,2023-05-30,social,Centro-Oeste
+454,Sarah Cardoso,61,8484.36,2022-02-10,pago,Norte
+455,João Lopes,58,9435.11,2023-04-21,pago,Centro-Oeste
+456,Emanuel Mendes,50,13794.62,2022-03-28,orgânico,Sudeste
+457,Isabella Jesus,51,3565.71,2022-08-26,pago,Sul
+458,Sra. Nina Freitas,38,14118.96,2022-07-14,pago,Nordeste
+459,Fernando Moreira,51,13581.5,2022-03-02,orgânico,Nordeste
+460,Isadora Costa,30,10073.27,2022-07-14,indicação,Sul
+461,Otávio Gonçalves,58,5588.13,2022-05-03,orgânico,Norte
+462,Mariane Almeida,59,3776.58,2022-09-19,pago,Sul
+463,Camila Aragão,60,9930.47,2023-03-24,indicação,Norte
+464,Matheus da Conceição,20,12640.69,2022-03-12,orgânico,Sudeste
+465,Natália Freitas,20,14305.38,2022-02-24,indicação,Sul
+466,Dr. Theo Freitas,54,7123.92,2022-03-13,orgânico,Centro-Oeste
+467,Alexia Araújo,58,8865.3,2022-10-20,indicação,Centro-Oeste
+468,Kevin Cardoso,33,12363.29,2022-09-28,social,Nordeste
+469,Camila Novaes,47,2485.14,2022-06-10,orgânico,Sul
+470,Leandro Castro,46,7110.89,2022-06-19,social,Sul
+471,Benício Moraes,39,9689.91,2022-06-06,indicação,Nordeste
+472,Sra. Pietra Oliveira,64,14838.32,2022-04-10,indicação,Centro-Oeste
+473,Maitê Ferreira,26,11768.98,2022-09-25,orgânico,Nordeste
+474,João Vitor Nascimento,33,7797.38,2023-03-31,indicação,Centro-Oeste
+475,Amanda Ferreira,33,3401.85,2022-11-21,orgânico,Nordeste
+476,Lorena da Rosa,42,13166.21,2023-06-12,social,Sul
+477,Pedro Miguel da Mata,28,12481.95,2022-04-23,indicação,Sul
+478,Joana Gomes,28,8226.58,2022-09-17,social,Centro-Oeste
+479,Ana Carolina Ribeiro,37,8214.5,2022-12-14,orgânico,Centro-Oeste
+480,Rodrigo Castro,50,7672.61,2022-04-26,pago,Sul
+481,Amanda Carvalho,55,6264.08,2023-06-29,orgânico,Nordeste
+482,Lavínia Fogaça,49,9566.5,2023-03-24,social,Nordeste
+483,Brenda da Costa,52,1610.39,2022-08-07,orgânico,Centro-Oeste
+484,Pedro Miguel da Paz,26,13413.15,2022-10-18,indicação,Centro-Oeste
+485,Francisco Ferreira,41,2110.77,2022-05-01,orgânico,Norte
+486,Caio da Paz,53,4127.85,2023-03-28,indicação,Sudeste
+487,Vitor Gabriel Almeida,42,8307.45,2023-01-19,indicação,Norte
+488,Rodrigo Cunha,61,9749.08,2022-11-12,pago,Sudeste
+489,Ryan Teixeira,43,6538.18,2022-12-30,indicação,Norte
+490,Srta. Emanuella Nunes,41,11692.03,2023-04-06,pago,Norte
+491,Ryan da Rosa,50,6918.73,2022-07-11,orgânico,Sudeste
+492,Benjamin Oliveira,20,3349.99,2022-09-15,indicação,Centro-Oeste
+493,Laís Teixeira,51,7669.35,2022-11-24,pago,Nordeste
+494,Eduardo da Cunha,57,5800.16,2022-10-25,social,Norte
+495,Mirella Costela,65,12875.13,2022-06-26,indicação,Norte
+496,Matheus Ramos,50,8686.59,2023-05-25,indicação,Centro-Oeste
+497,Marcela Aragão,19,6472.83,2022-03-12,orgânico,Centro-Oeste
+498,João Guilherme Freitas,55,5653.65,2022-01-04,orgânico,Norte
+499,Igor da Cunha,48,5084.66,2022-06-07,pago,Sudeste
+500,Daniela da Conceição,55,7986.06,2023-06-05,social,Sul
