@@ -10,13 +10,13 @@ Este repositório apresenta uma análise completa do ciclo de vida de clientes c
 - Calculate metrics such as RFM, LTV, churn rate, and inactivity periods.
 - Identify customer segments based on behavioral and response patterns.
 - Visualize the customer journey from acquisition to reactivation.
-- Develop an interactive dashboard with actionable insights.
+
 
 - Simular um ambiente de dados com informações realistas de clientes, transações e campanhas.
 - Calcular métricas como RFM, LTV, taxa de churn e períodos de inatividade.
 - Identificar segmentos de clientes com base no comportamento de uso e resposta.
 - Visualizar a jornada do cliente da aquisição à reativação.
-- Desenvolver um dashboard interativo com insights acionáveis.
+
 
 ## Business Questions / Perguntas de Negócio
 
